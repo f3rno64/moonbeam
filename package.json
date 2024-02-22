@@ -23,7 +23,7 @@
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "async": "^2.6.1",
-    "axios": "^0.19.2",
+    "axios": "^1.6.7",
     "bfx-lib-server-js": "git+https://github.com/bitfinexcom/bfx-lib-server-js.git#d6fdcf44f7fbd91f9286703ea69c8b91f884588a",
     "config": "^3.3.1",
     "cors": "^2.8.5",
